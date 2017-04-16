@@ -1,0 +1,4 @@
+theguardian.com/	.content__article-body
+bbc.co.uk/news/		.story-body__inner
+washingtonpost.com/	#article-body
+arstechnica.co.uk/	.article-content
